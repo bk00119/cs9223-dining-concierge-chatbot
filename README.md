@@ -1,6 +1,3 @@
-## Repo
-https://github.com/bk00119/cs9223-customer-service
-
 ## Guidelines
 **[Assignment 1 PDF Guide](./CC_Fall2025_Assignment1.pdf)**
 
